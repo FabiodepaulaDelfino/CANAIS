@@ -152,3 +152,28 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/16762
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/16763
 #EXTINF:-1 tvg-id="" tvg-name="Viva HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/viva2018.png" group-title="CANAIS: HD",Viva HD+
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/16764
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33730
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD²" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3654b34017508a963ccce2426e91e4cd.png" group-title="CANAIS: FILMES E SERIES",AMC HD²
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33731
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="" group-title="CANAIS: FILMES E SERIES",Film & Arts
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33732
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f1ea29ac81e62157172ba49b0d396461.png" group-title="CANAIS: ABERTOS",FUTURA HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33733
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA FHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f1ea29ac81e62157172ba49b0d396461.png" group-title="CANAIS: ABERTOS",FUTURA FHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33734
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: HD",GLOBO TV VERDES MARES HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33736
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Liberal HD Belém" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",Globo TV Liberal HD Belém
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33737
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRASIL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8e6879f4d0b210477c75636b27e078dd.png" group-title="CANAIS: VARIEDADES",MUSIC BOX BRASIL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33738
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/36837395e1111276d242f6599130cd9e.png" group-title="CANAIS: INFANTIS",GLOOBINHO FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33739
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/36837395e1111276d242f6599130cd9e.png" group-title="CANAIS: INFANTIS",GLOOBINHO HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33740
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO H265" tvg-logo="http://xcui.vitvabc.xyz:8880/images/36837395e1111276d242f6599130cd9e.png" group-title="CANAIS: GLOBO",GLOOBINHO H265
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33741
+#EXTINF:-1 tvg-id="" tvg-name="Like HD" tvg-logo="" group-title="CANAIS: HD",Like HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33742
+#EXTINF:-1 tvg-id="" tvg-name="PAI ETERNO FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/759800dee368ce2cf44d2db23d16f682.png" group-title="CANAIS: RELIGIOSOS",PAI ETERNO FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33743
